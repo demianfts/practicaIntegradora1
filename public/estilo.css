@@ -1,0 +1,27 @@
+.row {
+    margin-left: 20px !important;
+    margin-bottom: 20px;
+    margin-right: 20px !important;
+  }
+
+  #title {
+      color: white;
+      padding-left: 450px !important;
+      
+  }
+
+  .main {
+      padding-top: 40px;
+  }
+
+.card-title {
+    padding: 6px;
+    text-transform: capitalize !important;
+    
+}
+
+.footerCap{
+    color: white;
+    padding-left: 10px;
+    
+}
